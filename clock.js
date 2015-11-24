@@ -1,3 +1,3 @@
 setInterval(function() {
-  document.write(new Date().toTimeString());
+  console.log(new Date().toTimeString());
 }, 1000);
